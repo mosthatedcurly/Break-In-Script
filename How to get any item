@@ -3,4 +3,4 @@
 game.ReplicatedStorage.RemoteEvents.GiveTool:FireServer("ITEM-NAME-HERE")
 
 -- ITEM LIST WITH THE CAPITALIZATION
--- MedKit, Plank, Cure, Cookie, Apple, Bat, LinkedSword, Chips, BloxyCola, TeddyBloxpin, Pizza3, EpicPizza
+-- MedKit, Plank, Cure, Cookie, Apple, Bat, LinkedSword, Chips, BloxyCola, TeddyBloxpin, Pizza3, EpicPizza, ExpiredBloxyCola, Pie
